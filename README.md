@@ -1,4 +1,4 @@
-# Book Project Docs
+# Project Books Docs
 
 Documentation site made using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
