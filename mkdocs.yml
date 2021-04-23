@@ -7,5 +7,6 @@ nav:
   - Styleguides:
           - Java styleguide: java-styleguide.md
           - React styleguide: react-styleguide.md
+          - TypeScript styleguide: typescript-styleguide.md
 theme:
         name: material
