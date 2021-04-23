@@ -1,3 +1,11 @@
 site_name: Project Books Docs
+repo_name: GitHub
+repo_url: https://github.com/Project-Books
+nav:
+  - Home: index.md
+  - Code of conduct: code-of-conduct.md
+  - Styleguides:
+          - Java styleguide: java-styleguide.md
+          - React styleguide: react-styleguide.md
 theme:
         name: material
