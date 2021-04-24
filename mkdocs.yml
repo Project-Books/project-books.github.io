@@ -12,7 +12,20 @@ nav:
 theme:
         name: material
         palette:
+            # Light side
             - media: "(prefers-color-scheme: light)"
               primary: white
               accent: red
+              toggle:
+                icon: material/toggle-switch-off-outline
+                name: Switch to the dark side
+            
+            # Dark side
+            - media: "(prefers-color-scheme: dark)"
+              primary: black
+              accent: red
+              toggle:
+                icon: material/toggle-switch
+                name: Switch to the light side
+
         favicon: images/favicon.png
