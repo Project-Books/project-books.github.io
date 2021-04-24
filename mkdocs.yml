@@ -13,6 +13,6 @@ theme:
         name: material
         palette:
             - media: "(prefers-color-scheme: light)"
-              primary: black
+              primary: white
               accent: red
         favicon: images/favicon.png
