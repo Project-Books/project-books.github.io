@@ -28,4 +28,7 @@ theme:
                 icon: material/toggle-switch
                 name: Switch to the light side
 
+        icon:
+            repo: octicons/mark-github-16
+
         favicon: images/favicon.png
