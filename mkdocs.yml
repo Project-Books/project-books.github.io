@@ -10,3 +10,4 @@ nav:
           - TypeScript styleguide: typescript-styleguide.md
 theme:
         name: material
+        favicon: images/favicon.png
