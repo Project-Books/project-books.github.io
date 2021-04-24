@@ -11,4 +11,8 @@ nav:
           - TypeScript styleguide: typescript-styleguide.md
 theme:
         name: material
+        palette:
+            - media: "(prefers-color-scheme: light)"
+              primary: black
+              accent: red
         favicon: images/favicon.png
