@@ -62,7 +62,7 @@ Enum names should be written in `PascalCase`. Enum items are written in `CONSTAN
 
 ### Parameter names
 
-Parameter names should be written in `camcelCase`.
+Parameter names should be written in `camelCase`.
 
 ### Local variable names
 
