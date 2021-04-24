@@ -11,4 +11,4 @@ To run the site locally run
 ```
 mkdocs serve
 ```
-
+Then, go to `localhost:8080`to see the website.
