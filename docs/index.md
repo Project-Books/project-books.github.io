@@ -12,7 +12,7 @@ finish. We're looking to expand the Book Project to become a book platform for r
 can interact with other readers to find the next good book to read.
 
 We're using Java with Spring Boot, React with TypeScript, MySQL and other technologies to build this.
-j
+
 ![home](images/book-project-home.png)
 
 We started the Book Project out of a desire for a substantially better Goodreads, but we're also
