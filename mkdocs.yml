@@ -4,11 +4,11 @@ repo_url: https://github.com/Project-Books
 nav:
   - Home: index.md
   - Contributing: contributing.md
-  - Code of conduct: code-of-conduct.md
-  - Styleguides:
-          - Java styleguide: java-styleguide.md
-          - React styleguide: react-styleguide.md
-          - TypeScript styleguide: typescript-styleguide.md
+  - Code of Conduct: code-of-conduct.md
+  - Style Guides:
+          - Java Style Guide: java-styleguide.md
+          - React Style Guide: react-styleguide.md
+          - TypeScript Style Guide: typescript-styleguide.md
 theme:
         name: material
         palette:
