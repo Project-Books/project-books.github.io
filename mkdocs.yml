@@ -19,7 +19,7 @@ theme:
               toggle:
                 icon: material/toggle-switch-off-outline
                 name: Switch to the dark side
-            
+
             # Dark side
             - media: "(prefers-color-scheme: dark)"
               primary: black
@@ -32,3 +32,9 @@ theme:
             repo: octicons/mark-github-16
 
         favicon: images/favicon.png
+
+extra:
+  social:
+    - icon: fontawesome/brands/slack
+      link: https://join.slack.com/t/teambookproject/shared_invite/zt-pkii2nwk-fPcW4ujs_gbUKOpcjaFJ3g
+      name: Book Project Slack Workspace
