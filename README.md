@@ -13,4 +13,7 @@ To run the site locally run
 ```
 mkdocs serve
 ```
+
+On Windows, you may need to run `python -m mkdocs serve` instead.
+
 Then, go to `localhost:8080`to see the website.
