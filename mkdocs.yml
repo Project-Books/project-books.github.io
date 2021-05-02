@@ -9,6 +9,8 @@ nav:
           - Java Style Guide: styleguides/java-styleguide.md
           - React Style Guide: styleguides/react-styleguide.md
           - TypeScript Style Guide: styleguides/typescript-styleguide.md
+  - Maintaining:
+          - Code reviews: code-reviews.md
 theme:
         name: material
         palette:
