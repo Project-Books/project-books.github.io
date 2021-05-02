@@ -12,6 +12,7 @@ nav:
   - Maintaining:
           - Code reviews: maintaining/code-reviews.md
           - Code of conduct resolutions: maintaining/code-of-conduct-resolutions.md
+          - Becoming a maintainer: maintaining/maintainer.md
           - Becoming a triager: maintaining/triager.md
 theme:
         name: material
