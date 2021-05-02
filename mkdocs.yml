@@ -6,9 +6,9 @@ nav:
   - Contributing: contributing.md
   - Code of Conduct: code-of-conduct.md
   - Style Guides:
-          - Java Style Guide: java-styleguide.md
-          - React Style Guide: react-styleguide.md
-          - TypeScript Style Guide: typescript-styleguide.md
+          - Java Style Guide: styleguides/java-styleguide.md
+          - React Style Guide: styleguides/react-styleguide.md
+          - TypeScript Style Guide: styleguides/typescript-styleguide.md
 theme:
         name: material
         palette:
