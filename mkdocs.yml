@@ -10,7 +10,8 @@ nav:
           - React Style Guide: styleguides/react-styleguide.md
           - TypeScript Style Guide: styleguides/typescript-styleguide.md
   - Maintaining:
-          - Code reviews: code-reviews.md
+          - Code reviews: maintaining/code-reviews.md
+          - Code of conduct resolutions: maintaining/code-of-conduct-resolutions.md
 theme:
         name: material
         palette:
