@@ -37,7 +37,8 @@ By contributing to this project, you are expected to adhere to our [Code of Cond
 
 - Code: adding new features, fixing bugs and general refactoring to name a few
   - Code reviews: either offering to review a pull request on Slack or if you see a pull request and think the code could be improved, feel free to offer suggestions on how to do so. This can help improve our code quality and is much appreciated!
-     - Before reviewing code, please ensure you are familiar with and understand our [code reviews document](https://github.com/knjk04/book-project/blob/main/.github/CODE_REVIEWS.md)
+     - Before reviewing code, please ensure you are familiar with and understand our 
+     [code reviews document](https://project-books.github.io/docs/maintaining/code-reviews/)
   - Issues and pull requests labelled with [needs-repro](https://github.com/knjk04/book-project/labels/needs-repro) have yet to be reproduced. If you're able to reproduce it, letting us know would help a lot
   - Our test coverage is low, so we need a lot more tests, particularly the areas that are undertested or not covered at all
 
@@ -47,7 +48,7 @@ By contributing to this project, you are expected to adhere to our [Code of Cond
 
 - Feedback: we're eager to find new ways to improve, so please do let us know! Start a new [idea discussion on GitHub](https://github.com/Project-Books/book-project/discussions/categories/ideas)
 
-- Triage: help us to [triage issues and pull requests](https://github.com/Project-Books/book-project/wiki/Becoming-a-Triager)
+- Triage: help us to [triage issues and pull requests](https://project-books.github.io/docs/maintaining/triager/)
 
 In addition to the above, you can get involved in shaping the future of the project over on Slack.
 
