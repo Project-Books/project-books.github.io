@@ -1,6 +1,7 @@
 # Home
 
 Welcome to the documentation site for [Project Books](https://github.com/Project-Books)!
+This site brings together documents that apply to all of our projects (see below) in one place.
 
 ## Book Project
 
@@ -29,7 +30,7 @@ It is written in Java using [Spring Boot](https://spring.io/projects/spring-boot
 [DGS](https://netflix.github.io/dgs/) framework.
 
 The [Books API](https://github.com/Project-Books/books-api) is a sibling and supporting project to 
-the [Book Project](https://github.com/Project-Books/book-project). However, it has also been designed
+the [Book Project](https://github.com/Project-Books/book-project). However, we have also designed it
 to be standalone. Curating and maintaining a large and high-quality selection of books is hard.
 We hope that by providing a good, easy-to-use API, others who also consume our API may want to 
 contribute back by adding books to our collection.
