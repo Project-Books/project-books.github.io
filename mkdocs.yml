@@ -1,4 +1,5 @@
 site_name: Project Books Docs
+edit_uri: docs/edit/main/docs
 repo_name: GitHub
 repo_url: https://github.com/Project-Books
 nav:
