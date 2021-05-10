@@ -73,8 +73,7 @@ By contributing to this repository, you are expected to follow this style guide.
    2. [Fewest number of assertions in every test](https://github.com/knjk04/book-project/blob/master/STYLEGUIDE.md#fewest-number-of-assertions-in-every-test)
    3. [Assert all for multiple assertions](https://github.com/knjk04/book-project/blob/master/STYLEGUIDE.md#assert-all-for-multiple-assertions)
    4. [Disabling failing tests](https://github.com/knjk04/book-project/blob/master/STYLEGUIDE.md#disabling-failing-tests)
-   5. [Using DisplayName](https://github.com/knjk04/book-project/blob/master/STYLEGUIDE.md#using-displayname)
-   6. [Avoid randomness](https://github.com/knjk04/book-project/blob/master/STYLEGUIDE.md#avoid-randomness)
+   5. [Avoid randomness](https://github.com/knjk04/book-project/blob/master/STYLEGUIDE.md#avoid-randomness)
 10.  [Recommended reading](https://github.com/knjk04/book-project/blob/master/STYLEGUIDE.md#recommended-reading)
 11. [Updates to this document](https://github.com/knjk04/book-project/blob/master/STYLEGUIDE.md#updates-to-this-document)
 12. [Acknowledgements](https://github.com/knjk04/book-project/blob/master/STYLEGUIDE.md#acknowledgements)
@@ -571,14 +570,6 @@ If a test method needs multiple assertions, `assertSoftly()` should be used. Oth
 ### No disabling failing tests
 
 If a test fails, you are generally expected to fix it. We generally prefer for builds to fail rather than commenting out or disabling tests wtih the `@Disable` annotation.
-
-### Using DisplayName
-
-All test classes should be annotated with a `@DisplayName`. For example, the test class `TagServiceTest` should
-be annotated with the display name `TagService should`. We find this greatly improves readability as the method
-names can be read like a sentence (e.g. `TagService should` `findAllTags()` or `deleteExistingTag()`).
-
-A `@DisplayName` annotation should be used at a method level where it adds value. For example, you could replace a Javadoc comment with a display name. This is also useful if the method name is concise but not comprehensive. Adding a display name should be used where it serves as useful documentation.
 
 ### Avoid randomness
 
