@@ -2,4 +2,4 @@
 
 We have adopted [Google's TypeScript style guide](https://google.github.io/styleguide/tsguide.html).
 
-All source files should start with our [copyright notice](https://github.com/Project-Books/book-project/blob/react-login-558/COPYRIGHT) attached verbatim.
+All source files should start with our copyright notice attached verbatim. This copyright notice can be found at the root of the respective repository.
