@@ -4,6 +4,8 @@ Please also ensure that you remain familiar with this document as it may change 
 
 We have adopted [Google's Java style guide](https://google.github.io/styleguide/javaguide.html). In addition, we have listed our own rules below.
 
+All source files should start with our copyright notice attached verbatim. This copyright notice can be found at the root of the respective repository.
+
 ## JUnit tests
 
 ### Use AssertJ
