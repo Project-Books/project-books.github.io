@@ -4,18 +4,21 @@ repo_name: GitHub
 repo_url: https://github.com/Project-Books
 nav:
   - Home: index.md
-  - Design: design.md
-  - Contributing: contributing.md
-  - Code of Conduct: code-of-conduct.md
-  - Style Guides:
-          - Java Style Guide: styleguides/java-styleguide.md
-          - React Style Guide: styleguides/react-styleguide.md
-          - TypeScript Style Guide: styleguides/typescript-styleguide.md
-  - Maintaining:
-          - Code reviews: maintaining/code-reviews.md
-          - Code of conduct resolutions: maintaining/code-of-conduct-resolutions.md
-          - Becoming a maintainer: maintaining/maintainer.md
-          - Becoming a triager: maintaining/triager.md
+  - UI/UX Design:
+          - Design: design/join-design-team.md
+          - Design team: design/design-team.md
+  - Development:
+          - Contributing: contributing.md
+          - Code of Conduct: code-of-conduct.md
+          - Style Guides:
+                  - Java Style Guide: styleguides/java-styleguide.md
+                  - React Style Guide: styleguides/react-styleguide.md
+                  - TypeScript Style Guide: styleguides/typescript-styleguide.md
+          - Maintaining:
+                  - Code reviews: maintaining/code-reviews.md
+                  - Code of conduct resolutions: maintaining/code-of-conduct-resolutions.md
+                  - Becoming a maintainer: maintaining/maintainer.md
+                  - Becoming a triager: maintaining/triager.md
 theme:
         name: material
         palette:

@@ -1,6 +1,6 @@
 ## What is the Book Project?
 
-![logo](images/logo-one-line@5x.png)
+![logo](../images/logo-one-line@5x.png)
 
 Currently, it's a book tracker. It lets users track books they would like to read, are currently 
 reading, have read and did not finish (we call these 'shelves', and we also have user-defined shelves). 
@@ -36,7 +36,7 @@ For more information, have a look at our [vision document](https://github.com/Pr
 
 ## Why design is important to us
 
-![home](images/book-project-home.png)
+![home](../images/book-project-home.png)
 
 One of the primary reasons for starting the project was to address the concerns users had with 
 Goodreads's outdated design. We want to create a clean, modern and simple design that our users love. 
