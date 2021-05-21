@@ -6,7 +6,7 @@ Currently, it's a book tracker. It lets users track books they would like to rea
 reading, have read and did not finish (we call these 'shelves', and we also have user-defined shelves). 
 At present, users have to enter the information by hand. 
 
-The best way to get a better sense of what the app does is to use it. Here's our first prototype 
+The best way to get a better sense of what the app does is to use it. Here's our [first prototype](http://bookprojectv010-env.eba-22zuiphf.eu-west-2.elasticbeanstalk.com/login) 
 (we are no longer working on this as we are redesigning this entirely). You can log in with the 
 credentials we use for testing:
 
