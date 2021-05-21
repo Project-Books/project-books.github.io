@@ -4,6 +4,7 @@ repo_name: GitHub
 repo_url: https://github.com/Project-Books
 nav:
   - Home: index.md
+  - Design: design.md
   - Contributing: contributing.md
   - Code of Conduct: code-of-conduct.md
   - Style Guides:
