@@ -6,14 +6,6 @@ Currently, it's a book tracker. It lets users track books they would like to rea
 reading, have read and did not finish (we call these 'shelves', and we also have user-defined shelves). 
 At present, users have to enter the information by hand. 
 
-The best way to get a better sense of what the app does is to use it. Here's our [first prototype](http://bookprojectv010-env.eba-22zuiphf.eu-west-2.elasticbeanstalk.com/login) 
-(we are no longer working on this as we are redesigning this entirely). You can log in with the 
-credentials we use for testing:
-
-Username: `user`
-
-Password: `password`
-
 Manually entering in information is tedious. We're also curating a catalogue of books to search from 
 (the 'Books API'). It'll be hard to create a sizeable quality library of books to choose from, so we 
 still want users to have the option to add in a book if it doesn't exist in our catalogue. Over time, 
@@ -48,8 +40,10 @@ We don't see UI/UX design as a one-off project. Rather, it's a continuous proces
 ## What has already been done
 
 See [here](https://www.figma.com/proto/MWYSlKNoyg3Ja3EAeectcQ/Book-Project-UI-Copy?node-id=1%3A2&scaling=min-zoom) 
-for the mockups we are designing for our second version. Our third version will then incorporate our 
-UX research. 
+for the mockups we are designing for our second version. Please note that these mockups are an early draft. We are 
+still working on them and things may change substantially.
+
+Our third version will then incorporate our UX research. 
 
 We have recently formed a small UI/UX team, so it's still early days. We're currently conducting competitive analysis, defining our goals and our success metrics.
 
