@@ -9,3 +9,5 @@ UX researchers:
 - Swetha
 - Diana
 - Jihwan
+- Shir
+- Iris
