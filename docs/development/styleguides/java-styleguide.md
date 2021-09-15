@@ -6,6 +6,10 @@ We have adopted [Google's Java style guide](https://google.github.io/styleguide/
 
 All source files should start with our copyright notice attached verbatim. This copyright notice can be found at the root of the respective repository.
 
+## IDE integration
+
+Recommended IntelliJ plugin: [google-java-format](https://plugins.jetbrains.com/plugin/8527-google-java-format)
+
 ## JUnit tests
 
 ### Use AssertJ
