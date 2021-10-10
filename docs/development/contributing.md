@@ -9,29 +9,6 @@ Please also ensure that you remain familiar with this contributing document as i
 
 By contributing to this project, you are expected to adhere to our [Code of Conduct](https://project-books.github.io/docs/code-of-conduct/). 
 
-## Contents
-
-1. [Ways to contribute](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#ways-to-contribute)
-1. [Receiving a response](https://github.com/Project-Books/book-project/blob/refactor-book-service-test-523/CONTRIBUTING.md#receiving-a-response)
-1. [Open-ended discussions](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#open-ended-discussions) 
-1. [Before making changes](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#before-making-changes)
-   1. [Tell us which issue you want to work on](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#tell-us-which-issue-you-want-to-work-on)
-   1. [New contributors assigned to at most one issue at a time](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#new-contributors-assigned-to-at-most-one-issue-at-a-time)
-   1. [Discuss your implementation approach](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#discuss-your-implementation-approach)
-   1. [Ensure your email address on your commits are correct](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#ensure-your-email-address-on-your-commits-are-correct)
-      1. [Rewriting pushed commits with a different email address](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#rewriting-pushed-commits-with-a-different-email-address)
-1. [Workflow](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#workflow)
-   1. [Commit messages](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#commit-messages)
-   1. [One problem per patch](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#one-problem-per-patch)
-1. [Code contributions](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#code-contributions)
-   1. [Writing tests](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#writing-tests)
-   1. [New files](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#new-files)
-1. [Pull requests](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#pull-requests)
-   1. [Merge conflicts](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#merge-conflicts)
-   1. [Resolving conversations](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#resolving-conversations)
-1. [Stale issues & pull requests](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#stale-issues--pull-requests)
-1. [Unassigning yourself](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#unassigning-yourself)
-
 ## Ways to contribute
 
 - Code: adding new features, fixing bugs and general refactoring to name a few
