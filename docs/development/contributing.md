@@ -23,7 +23,6 @@ By contributing to this project, you are expected to adhere to our [Code of Cond
 1. [Workflow](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#workflow)
    1. [Commit messages](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#commit-messages)
    1. [One problem per patch](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#one-problem-per-patch)
-   1. [Squashing Commits](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#squashing-commits)
 1. [Code contributions](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#code-contributions)
    1. [Writing tests](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#writing-tests)
    1. [New files](https://github.com/knjk04/book-project/blob/main/CONTRIBUTING.md#new-files)
@@ -168,16 +167,6 @@ Please follow the process below:
 For every patch (i.e. pull request) you make, please ensure it solves one problem. If you want to solve multiple problems, please spread them across multiple patches -- one patch per problem.
 
 This makes it easier to keep track of what changes were made in what branch or pull request when looking back. Additionally, it makes code reviews go a lot quicker and smoother.
-
-### Squashing commits
-
-If you need to fix a small issue (e.g. fixing typos), address review feedback or fix a failing build, please squash your commits. This can be done using an interactive rebase:
-```
-$ git rebase -i HEAD~n
-```
-where _n_ represents the number of last commits.
-
-You can then change the commit that you want to squash with the previous by changing the word 'pick' to 'squash'. When pushing the changes, you'll need to force push (e.g. `git push -f origin add-avatar`).
 
 ### Syncing your fork
 
