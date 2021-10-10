@@ -11,6 +11,7 @@ nav:
           - Contributing: development/contributing.md
           - Style Guides:
                   - Java Style Guide: development/styleguides/java-styleguide.md
+                  - Spring Style Guide: development/styleguides/spring-styleguide.md
                   - React Style Guide: development/styleguides/react-styleguide.md
                   - TypeScript Style Guide: development/styleguides/typescript-styleguide.md
           - How to:
