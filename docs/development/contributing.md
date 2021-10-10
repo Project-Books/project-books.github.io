@@ -111,10 +111,7 @@ You can then ensure that this matches the email address on your GitHub account (
 For more information, see GitHub's documentation page on 
 ['Why are my contributions not showing up on my profile?'](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/why-are-my-contributions-not-showing-up-on-my-profile).
 
-
-#### Rewriting pushed commits with a different email address
-
-
+See how to [rewrite pushed commits to use a different email address](https://project-books.github.io/docs/development/how-to/rewrite-pushed-commits/).
 
 ## Workflow
 
