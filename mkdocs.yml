@@ -15,6 +15,7 @@ nav:
                   - TypeScript Style Guide: development/styleguides/typescript-styleguide.md
           - How to:
                   - Connect to database in IntelliJ Ultimate: development/how-to/database-intellij.md
+                  - Rewriting pushed commits with a different email address: development/how-to/rewrite-pushed-commits.md
           - Maintaining:
                   - Code reviews: development/maintaining/code-reviews.md
                   - Code of conduct resolutions: development/maintaining/code-of-conduct-resolutions.md
