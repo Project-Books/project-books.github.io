@@ -4,11 +4,11 @@ UI:
 - Braja is working on our mockups
 
 UX researchers:
+- Reza
 - Sriram
 - Swetha
 - Diana
 - Jihwan
-- Shir
 - Iris
 
 ## Alumni
