@@ -23,6 +23,9 @@ and our [FAQs](https://github.com/Project-Books/book-project/wiki/FAQ).
 
 ## Books API
 
+![books-api-logo](https://user-images.githubusercontent.com/11173328/147469250-54e37b92-53bb-44c4-9b0d-d0646e7fcc34.png)
+
+
 The [Books API](https://github.com/Project-Books/books-api) is a GraphQL API that stores books,
 authors, publishers and more.
 
