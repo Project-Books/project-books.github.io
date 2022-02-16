@@ -55,6 +55,8 @@ theme:
         favicon: images/favicon.png
 
 markdown_extensions:
+  - pymdownx.highlight:
+      linenums: true
   - toc:
       permalink: True
 
