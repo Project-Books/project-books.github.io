@@ -24,7 +24,7 @@ what their friends are reading and connect with like-minded individuals to form 
 Moreover, there is a lot of scope: we could create mobile apps, a recommendation algorithm for 
 recommending books, etc.
 
-For more information, have a look at our [vision document](https://github.com/Project-Books/book-project/blob/main/VISION.md).
+For more information, have a look at our [vision document](https://project-books.github.io/vision/).
 
 ## Why design is important to us
 
