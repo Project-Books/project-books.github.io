@@ -29,7 +29,7 @@ This list is non-exhaustive and is only indicative of common problems that arise
 
 ## Etiquette
 
-In line with our [code of conduct](https://project-books.github.io/docs/code-of-conduct/), always be welcoming.
+In line with our [code of conduct](https://project-books.github.io/conduct/code-of-conduct/), always be welcoming.
 
 Tips:
 - Acknowledge the PR and tell them when you're able to review it (or that you'll review it shortly if you don't yet know when you'll be able to review it)
