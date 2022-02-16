@@ -18,6 +18,7 @@ nav:
           - Maintaining:
                   - Code reviews: development/maintaining/code-reviews.md
                   - Code of conduct resolutions: development/maintaining/code-of-conduct-resolutions.md
+                  - Core team: development/maintaining/core-team.md
                   - Becoming a maintainer: development/maintaining/maintainer.md
                   - Becoming a triager: development/maintaining/triager.md
   - Code of Conduct: code-of-conduct.md
