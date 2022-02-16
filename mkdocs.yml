@@ -23,8 +23,8 @@ nav:
                   - Code reviews: development/maintaining/code-reviews.md
                   - Core team: development/maintaining/core-team.md
   - Conduct:
-          - Code of Conduct: code-of-conduct.md
-          - Code of conduct resolutions: code-of-conduct-resolutions.md
+          - Code of Conduct: conduct/code-of-conduct.md
+          - Code of conduct resolutions: conduct/code-of-conduct-resolutions.md
   - About:
         - Core principles: core-principles.md
         - FAQ: faq.md
