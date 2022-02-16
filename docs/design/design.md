@@ -37,7 +37,28 @@ demands of our users.
 
 We don't see UI/UX design as a one-off project. Rather, it's a continuous process to improve our web app.
 
-## What has already been done
+From a development perspective, quite a lot! Take a look on [GitHub](https://github.com/Project-Books).
+
+# Design team
+
+We also have a small UI/UX team that researches how we can create a compelling user experience for our users.
+
+| Name    | UI or UX? | Focus    |
+| ------- | --------  | -------- |
+| Braja   | UI        | Mockups  |
+| Reza    | UX        |          |
+| Margo   | UX        |          |
+| Sriram  | UX        |          |
+| Diana   | UX        |          |
+| Danni   | UI        | Mockups  |
+
+*Alumni:*
+
+- [Olivia](https://github.com/ofvoler): designed our logo and worked on our mockups
+- Elena was a UX researcher
+- Iris: UX researcher
+
+## What has been done so far
 
 See [here](https://www.figma.com/proto/MWYSlKNoyg3Ja3EAeectcQ/Book-Project-UI-Copy?node-id=1%3A2&scaling=min-zoom) 
 for the mockups we are designing for our second version. Please note that these mockups are an early draft. We are 
@@ -47,7 +68,6 @@ Our third version will then incorporate our UX research.
 
 We have recently formed a small UI/UX team, so it's still early days. We're currently conducting competitive analysis, defining our goals and our success metrics.
 
-From a development perspective, quite a lot! Take a look on [GitHub](https://github.com/Project-Books).
 
 ## Commitment
 
@@ -63,10 +83,6 @@ voluntary, we avoid imposing any deadlines. All we ask for in return is to keep 
 you are working on. If a task is taking longer than expected for whatever reason, that's fine, but 
 please do let us know.
 
-## How do I join/find out more?
+# Interested in joining?
 
-Please take a look at our [FAQ page](https://github.com/Project-Books/book-project/wiki/FAQ) for 
-more information. Also, feel free to ask on the #book-project channel on our Slack workspace 
-(click the Slack icon in the footer).
-
-If you'd like to join, reach out to @knjk04 on our Slack workspace.
+Reach out to @knjk04 on our [Slack workspace](https://join.slack.com/t/teambookproject/shared_invite/zt-punc8os7-Iz9PTCAkYcO_0S~XwtO5_A)

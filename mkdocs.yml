@@ -5,8 +5,8 @@ repo_url: https://github.com/Project-Books
 nav:
   - Home: index.md
   - UI/UX Design:
-          - Design: design/join-design-team.md
-          - Design team: design/design-team.md
+          - Design: design/design.md
+          - Tools we use: design/design-tools.md
   - Development:
           - Contributing: development/contributing.md
           - Style Guides:
