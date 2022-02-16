@@ -26,6 +26,7 @@ nav:
           - Code of Conduct: code-of-conduct.md
           - Code of conduct resolutions: code-of-conduct-resolutions.md
   - FAQ: faq.md
+  - Core principles: core-principles.md
 theme:
         name: material
         palette:
