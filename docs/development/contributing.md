@@ -7,24 +7,24 @@ Please also ensure that you remain familiar with this contributing document as i
 
 ## Code of Conduct
 
-By contributing to this project, you are expected to adhere to our [Code of Conduct](https://project-books.github.io/docs/code-of-conduct/). 
+By contributing to this project, you are expected to adhere to our [Code of Conduct](https://project-books.github.io/code-of-conduct/). 
 
 ## Ways to contribute
 
 - Code: adding new features, fixing bugs and general refactoring to name a few
   - Code reviews: either offering to review a pull request on Slack or if you see a pull request and think the code could be improved, feel free to offer suggestions on how to do so. This can help improve our code quality and is much appreciated!
      - Before reviewing code, please ensure you are familiar with and understand our 
-     [code reviews document](https://project-books.github.io/docs/development/maintaining/code-reviews/)
+     [code reviews document](https://project-books.github.io/development/maintaining/code-reviews/)
   - Issues and pull requests labelled with [needs-repro](https://github.com/knjk04/book-project/labels/needs-repro) have yet to be reproduced. If you're able to reproduce it, letting us know would help a lot
   - Our test coverage is low, so we need a lot more tests, particularly the areas that are undertested or not covered at all
 
-- Documentation: improvements (including fixing typos!) to files such as our READMEs, any wiki page, any of our style guides, comments in source files, this contributing document or the [code of conduct](https://project-books.github.io/docs/code-of-conduct/).
+- Documentation: improvements (including fixing typos!) to files such as our READMEs, any wiki page, any of our style guides, comments in source files, this contributing document or the [code of conduct](https://project-books.github.io/code-of-conduct/).
 
 - Design: helping to design the UI and UX of the web app through prototypes (such as wireframes and drawings)
 
 - Feedback: we're eager to find new ways to improve, so please do let us know! Start a new [idea discussion on GitHub](https://github.com/Project-Books/book-project/discussions/categories/ideas)
 
-- Triage: help us to [triage issues and pull requests](https://project-books.github.io/docs/maintaining/triager/)
+- Triage: help us to [triage issues and pull requests](https://project-books.github.io/development/maintaining/triager/)
 
 In addition to the above, you can get involved in shaping the future of the project over on Slack.
 
