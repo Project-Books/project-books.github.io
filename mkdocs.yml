@@ -54,7 +54,8 @@ theme:
         icon:
             repo: octicons/mark-github-16
 
-        favicon: images/favicon.png
+        favicon: assets/favicon.png
+
 
 markdown_extensions:
   - admonition
