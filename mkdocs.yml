@@ -54,6 +54,10 @@ theme:
 
         favicon: images/favicon.png
 
+markdown_extensions:
+  - toc:
+      permalink: True
+
 extra:
   social:
     - icon: fontawesome/brands/slack
