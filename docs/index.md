@@ -19,7 +19,7 @@ We're using Java with Spring Boot, React with TypeScript, MySQL and other techno
 We started the Book Project out of a desire for a substantially better Goodreads, but we're also
 looking to redefine the experience at every step. For more information, see our 
 [vision](https://github.com/Project-Books/book-project/blob/main/VISION.md) for the Book Project
-and our [FAQs](https://github.com/Project-Books/book-project/wiki/FAQ).
+and our [FAQs](https://project-books.github.io/docs/faq/).
 
 ## Books API
 
