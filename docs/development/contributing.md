@@ -18,7 +18,7 @@ By contributing to this project, you are expected to adhere to our [Code of Cond
   - Issues and pull requests labelled with [needs-repro](https://github.com/knjk04/book-project/labels/needs-repro) have yet to be reproduced. If you're able to reproduce it, letting us know would help a lot
   - Our test coverage is low, so we need a lot more tests, particularly the areas that are undertested or not covered at all
 
-- Documentation: improvements (including fixing typos!) to files such as our READMEs, any wiki page, any of our style guides, comments in source files, this contributing document or the [code of conduct](https://project-books.github.io/code-of-conduct/).
+- Documentation: improvements (including fixing typos!) to files such as our READMEs, any wiki page, any of our style guides, comments in source files, this contributing document or the [code of conduct](https://project-books.github.io/conduct/code-of-conduct/).
 
 - Design: helping to design the UI and UX of the web app through prototypes (such as wireframes and drawings)
 
@@ -90,7 +90,7 @@ You can then ensure that this matches the email address on your GitHub account (
 For more information, see GitHub's documentation page on 
 ['Why are my contributions not showing up on my profile?'](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/why-are-my-contributions-not-showing-up-on-my-profile).
 
-See how to [rewrite pushed commits to use a different email address](https://project-books.github.io/docs/development/how-to/rewrite-pushed-commits/).
+See how to [rewrite pushed commits to use a different email address](https://project-books.github.io/development/how-to/rewrite-pushed-commits/).
 
 ## Workflow
 
