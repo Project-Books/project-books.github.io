@@ -1,6 +1,7 @@
 # Java Style guide
 
 !!! info This document may change
+
 Please ensure that you remain familiar with this document as it may change from time to time.
 
 We have adopted [Google's Java style guide](https://google.github.io/styleguide/javaguide.html). In addition, we have listed our own rules below.

@@ -1,15 +1,13 @@
 We also have a small UI/UX team that researches how we can create a compelling user experience for our users.
 
-**UI:**
-
-- Braja is working on our new mockups
-
-**UX researchers:**
-
-- Reza
-- Margo 
-- Sriram
-- Diana
+| Name    | UI or UX | Focus    |
+| ------- | -------- | -------- |
+| Braja   | UI       | Mockups  |
+| Reza    | UX       |          |
+| Margo   | UX       |          |
+| Sriram  | UX       |          |
+| Diana   | UX       |          |
+| Danni   | UI       | Mockups  |
 
 
 *Alumni:*
