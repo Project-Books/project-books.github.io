@@ -26,9 +26,9 @@ nav:
           - Code of Conduct: conduct/code-of-conduct.md
           - Code of conduct resolutions: conduct/code-of-conduct-resolutions.md
   - About:
-        - Core principles: core-principles.md
-        - FAQ: faq.md
-        - Vision: vision.md
+        - Core principles: about/core-principles.md
+        - FAQ: about/faq.md
+        - Vision: about/vision.md
 
 theme:
         name: material
