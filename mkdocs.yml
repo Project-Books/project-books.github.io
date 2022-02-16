@@ -15,6 +15,7 @@ nav:
                   - TypeScript Style Guide: development/styleguides/typescript-styleguide.md
           - How to:
                   - Rewriting pushed commits with a different email address: development/how-to/rewrite-pushed-commits.md
+                  - Connect to the backend with Postman: development/how-to/backend-postman.md
           - Maintaining:
                   - Code reviews: development/maintaining/code-reviews.md
                   - Core team: development/maintaining/core-team.md
