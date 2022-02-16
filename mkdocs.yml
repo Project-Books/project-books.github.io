@@ -55,6 +55,7 @@ theme:
         favicon: images/favicon.png
 
 markdown_extensions:
+  - admonition
   - pymdownx.highlight:
       linenums: true
       anchor_linenums: true
