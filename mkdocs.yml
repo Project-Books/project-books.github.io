@@ -36,7 +36,7 @@ theme:
             # Light side
             - media: "(prefers-color-scheme: light)"
               primary: white
-              accent: red
+              accent: indigo
               toggle:
                 icon: material/toggle-switch-off-outline
                 name: Switch to the dark side
