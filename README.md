@@ -2,9 +2,11 @@
 
 Documentation site made using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
-See https://project-books.github.io/docs/
+Go to https://project-books.github.io/ to see it live.
 
 ## Getting started locally
+
+> Note: these steps only need to be followed if you would like to contribute to our documentation 
 
 **Prerequisites**:
 - pip (Python package manager)
