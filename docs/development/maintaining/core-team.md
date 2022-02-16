@@ -2,7 +2,7 @@
 
 Everyone who commits to the Book Project is considered a part of our team. The core team refers to those who beyond committing to the project and have added responsibilities to help maintain and push the project forward. 
 
-All those in the core are held to the highest standard of our [code of conduct](https://project-books.github.io/docs/code-of-conduct/).
+All those in the core are held to the highest standard of our [code of conduct](https://project-books.github.io/conduct/code-of-conduct/).
 In particular, all maintainers must be welcoming and inclusive to all at all times. If they are not, their role as a maintainer could be revoked. 
 
 ## Project owner
