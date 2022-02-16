@@ -34,7 +34,8 @@ theme:
         name: material
         palette:
             # Light side
-            - media: "(prefers-color-scheme: light)"
+            - scheme: default
+        #     - media: "(prefers-color-scheme: light)"
               primary: white
               accent: indigo
               toggle:
@@ -42,7 +43,8 @@ theme:
                 name: Switch to the dark side
 
             # Dark side
-            - media: "(prefers-color-scheme: dark)"
+            - scheme: slaet
+        #     - media: "(prefers-color-scheme: dark)"
               primary: black
               accent: red
               toggle:
