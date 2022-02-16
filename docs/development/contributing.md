@@ -97,7 +97,7 @@ Please follow the process below:
 1. Tell us which issue you want to work on
 2. Discuss your implementation approach with us
 3. Fork the repository
-4. Create a new branch off main (unless the corresponding issue says otherwise). Your branch should have a descriptive branch name (that corresponds to the relevant issue) and include the issue number (e.g. `add-styleguide-1048`)
+4. Create a new branch off main (unless the corresponding issue says otherwise). Your branch should have a descriptive branch name (that corresponds to the relevant issue) (e.g. `add-styleguide`)
   - Please do not use quotation marks or apostrophes in your branch name
 5. Bring your branch level with the branch you're going to be branching into before submitting a pull request (we recommend rebasing)
   - i.e. if you're going to be branch off `main`, then rebase new changes from main onto your branch
