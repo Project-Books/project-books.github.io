@@ -12,7 +12,7 @@ allows readers to track books they would like to read, are currently reading, ha
 finish. We're looking to expand the Book Project to become a book platform for readers where they 
 can interact with other readers to find the next good book to read.
 
-We're using Java with Spring Boot, React with TypeScript, MySQL and other technologies to build this.
+We're using Java with Spring Boot, React with TypeScript, PostgreSQL and other technologies to build this.
 
 ![home](images/book-project-home.png)
 
