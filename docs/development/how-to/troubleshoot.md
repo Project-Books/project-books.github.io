@@ -7,7 +7,7 @@ You may find lots of errors for things like the log statements, or the entities 
 ### IntelliJ
     
   <p align="center">
-	<img src="https://github.com/Project-Books/book-project/blob/main/media/docs/wiki/troubleshooting/intellij_annotation_processing.png" alt="Enable IntelliJ annotation processing"/>
+    <img src="../../assets/intellij_annotation_processing.png" alt="Enable IntelliJ annotation processing"/>
   </p>
     
 To remove the errors in IntelliJ, install the [Lombok plugin](https://plugins.jetbrains.com/plugin/6317-lombok) and enable annotation 
@@ -24,8 +24,6 @@ In Eclipse, you will need to run Maven install before running the project (right
 
 ### FlywayException: Validate failed
 
-
-
 ```
 Caused by: org.flywaydb.core.api.FlywayException: Validate failed: 
 Migration checksum mismatch for migration version
@@ -41,7 +39,9 @@ If you see the error above, then you need to run flyway clean:
 
 ## Docker
 
-> NOTE: we are now using PostgreSQL instead of MySQL, but the fixes below may still apply
+!!! note
+
+    We are now using PostgreSQL instead of MySQL, but the fixes below may still apply
 
 ### SQL communications link failure
 
@@ -82,10 +82,6 @@ If you see the `Found orphan containers` warning, then run `docker-compose up --
 After running `docker container ls`, check to see if port 3306 is being used. If so, run `docker container rm -f` to stop and remove the container. In the above example, you would run `docker container rm -f 816`.
 
 If this doesn't work, you can see some more troubleshooting tips below.
-
-**MySQL is already running**:
-
-Windows: Open task manager (ctrl + alt + del), go the `processes` tab and then look for `mysqld.exe` under `background processes`.
 
 **A different service is running**
 
