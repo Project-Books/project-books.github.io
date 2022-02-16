@@ -23,6 +23,7 @@ nav:
           - Conduct:
                   - Code of Conduct: code-of-conduct.md
                   - Code of conduct resolutions: code-of-conduct-resolutions.md
+  - FAQ: faq.md
 theme:
         name: material
         palette:
