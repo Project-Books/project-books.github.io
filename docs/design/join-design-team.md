@@ -61,8 +61,7 @@ In terms of commitment, you're free to put in as little or as much time as you'd
 you decide that this isn't for you, you're more than happy to leave at any time. Given that this is 
 voluntary, we avoid imposing any deadlines. All we ask for in return is to keep us updated on what 
 you are working on. If a task is taking longer than expected for whatever reason, that's fine, but 
-please do let us know. Many people can have an opinion on design, so we have a small UI/UX private 
-channel for those in our UI/UX team. If you're happy to proceed, I can add you to it.
+please do let us know.
 
 ## How do I join/find out more?
 
