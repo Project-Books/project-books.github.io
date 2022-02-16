@@ -50,7 +50,9 @@ The reason for this is because we don't want to make discussions on issues or pu
 
 ### Tell us which issue you want to work on
 
-*This applies to both code and documentation changes.*
+!!! note
+
+    This applies to both code and documentation changes
 
 If an issue already exists for what you want to work and it is unassigned, and it is not labelled as [blocked](https://github.com/knjk04/book-project/labels/blocked), feel free to let us know that you want to work on it. We can then assign you to it. If an issue doesn't already exist, please create one and then let us know that you are happy to work on it.
 
