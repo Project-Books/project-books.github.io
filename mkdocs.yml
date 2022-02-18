@@ -59,6 +59,7 @@ theme:
 
 markdown_extensions:
   - admonition
+  - footnotes
   - pymdownx.highlight:
       linenums: true
       anchor_linenums: true
