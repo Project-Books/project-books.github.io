@@ -4,6 +4,8 @@ Documentation site made using [Material for MkDocs](https://squidfunk.github.io/
 
 Go to https://project-books.github.io/ to see it live.
 
+![image](https://user-images.githubusercontent.com/11173328/154635234-cc6a7c4b-059c-422a-95a2-d685b33e87bd.png)
+
 ## Getting started locally
 
 > Note: these steps only need to be followed if you would like to contribute to our documentation 
