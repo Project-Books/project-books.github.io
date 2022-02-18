@@ -55,8 +55,8 @@ theme:
             repo: octicons/mark-github-16
 
         favicon: assets/favicon.png
-  features:
-    - navigation.top
+        features:
+                - navigation.top
 
 
 markdown_extensions:
