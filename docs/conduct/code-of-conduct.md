@@ -85,5 +85,5 @@ A part of the 'our standards' section has been adapted from the
 
 ## Notes
 
-[^1]. If the leadership expands to a team, this will be changed to email addresses of two different maintainers (in case the complaint is at the project owner)
+[^1]: If the leadership expands to a team, this will be changed to email addresses of two different maintainers (in case the complaint is at the project owner)
 
