@@ -68,7 +68,7 @@ faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
 For more information about how violations will be handled, see our 
-[resolutions document](https://project-books.github.io/code-of-conduct-resolutions/).
+[resolutions document](https://project-books.github.io/conduct/code-of-conduct-resolutions/).
 
 ## Attribution
 

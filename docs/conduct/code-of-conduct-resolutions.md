@@ -1,7 +1,7 @@
 # Code of conduct resolutions
 
 This document details how we will handle possible code of conduct violations. 
-As with our [code of conduct](https://project-books.github.io/code-of-conduct/), 
+As with our [code of conduct](https://project-books.github.io/conduct/code-of-conduct/), 
 we may be update this document, so please ensure you stay up-to-date with any changes.
 
 ### Level 1: no further action
