@@ -57,6 +57,7 @@ theme:
         favicon: assets/favicon.png
         features:
                 - navigation.top
+                - navigation.tabs
 
 
 markdown_extensions:
