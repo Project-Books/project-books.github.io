@@ -7,7 +7,7 @@ Please also ensure that you remain familiar with this contributing document as i
 
 ## Code of Conduct
 
-By contributing to this project, you are expected to adhere to our [Code of Conduct](https://project-books.github.io/code-of-conduct/). 
+By contributing to this project, you are expected to adhere to our [Code of Conduct](https://project-books.github.io/conduct/code-of-conduct/). 
 
 ## Ways to contribute
 
