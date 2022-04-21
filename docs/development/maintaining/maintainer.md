@@ -52,7 +52,7 @@ our maintainers to help push the project forward.
 If Karan has offered you the position of becoming a maintainer, we will ask you the following 
 questions. These questions help us both set the expectations.
 
-As explained in the [core team document](https://github.com/Project-Books/book-project/blob/master/docs/maintainers/CORE_TEAM.md), 
+As explained in the [core team document](https://project-books.github.io/development/maintaining/core-team/), 
 we appreciate that becoming a maintainer is a big commitment (and we are very appreciative of our 
 maintainers). We want to be flexible to respect your other commitments. If your availability 
 changes, that's fine. The important thing is to let us know so that we can continue to be respectful
